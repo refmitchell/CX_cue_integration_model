@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/621232437.svg)](https://zenodo.org/badge/latestdoi/621232437)
 ## A model of cue integration as vector summation in the insect brain
 
 This repository accompanies the manuscript "A model of cue integration as vector summation in the insect brain". All relevant data and sofware are included in this repository.
