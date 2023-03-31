@@ -1,4 +1,4 @@
-## Multimodal cue integration in the insect central complex
+## A model of cue integration as vector summation in the insect brain
 
 This repository accompanies the manuscript "A model of cue integration as vector summation in the insect brain". All relevant data and sofware are included in this repository.
 
