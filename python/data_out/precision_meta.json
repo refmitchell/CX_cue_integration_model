@@ -1,0 +1,1 @@
+{"c2_offset": [], "desired": [], "k1": 4, "k2": 1.0, "w1": 0, "w2": 1, "s1": 33672766, "s2": 94314941, "timeout": 100, "n_rolls": 10, "max_turn": 24, "step_size": 2.89, "arena_size": 30, "sm_seed": 5437958, "sm_noise": true, "flatten_on_first": false, "reseed_generators": false, "desired_angle_seed": 345702, "placement_angle_seed": 98437535}
