@@ -22,7 +22,7 @@ here and in the manuscript.
 ## Legacy items
 Any item marked `[Legacy]` was not included in any way in the final manuscript. These are usually
 things which were tried or considered at one time or another and can be useful to include
-for completeness' sake. If `[Legacy]' appears in the module header comment, then nothing in
+for completeness' sake. If `[Legacy]` appears in the module header comment, then nothing in
 that module was used in the manuscript (supplementary information).
 
 ## Figure production
