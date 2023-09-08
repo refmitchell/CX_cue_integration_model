@@ -167,4 +167,3 @@ if __name__ == "__main__":
                        bbox_transform=fig.transFigure)
 
     fig.savefig("plots/conflict_weight.svg", bbox_inches="tight")
-

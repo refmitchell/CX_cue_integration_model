@@ -16,12 +16,12 @@ import simulation_utilities as simutils
 from test_utilities import angular_difference, circ_scatter
 
 exp_params = dict()
-exp_params[cwparamkeys.vary_strength] = (4, 4, 0.2, 0.8) # (k1, k2, w1, w2)
-exp_params[cwparamkeys.vary_reliability] = (1, 4, 0.5, 0.5)
-exp_params[cwparamkeys.vary_both] = (1, 4, 0.2, 0.8)
-exp_params[cwparamkeys.vary_both_inv] = (4, 1, 0.2, 0.8)
-exp_params[cwparamkeys.all_equal_k2] = (2, 2, 0.5, 0.5)
-exp_params[cwparamkeys.all_equal_k4] = (4, 4, 0.5, 0.5)
+exp_params[cwparamkeys.vary_strength] = (8, 8, 0.2, 0.8) # (k1, k2, w1, w2)
+exp_params[cwparamkeys.vary_reliability] = (2, 8, 0.5, 0.5)
+exp_params[cwparamkeys.vary_both] = (2, 8, 0.2, 0.8)
+exp_params[cwparamkeys.vary_both_inv] = (8, 2, 0.2, 0.8)
+exp_params[cwparamkeys.all_equal_k2] = (4, 4, 0.5, 0.5)
+exp_params[cwparamkeys.all_equal_k4] = (8, 8, 0.5, 0.5)
 
 if __name__ == "__main__":
     # Init random generators
